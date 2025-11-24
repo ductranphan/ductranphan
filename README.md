@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ductranphan
-- 👀 I’m interested in sports like soccer and UFC, going to the gym, watching movies and listening to music
+- 👀 I’m interested in sports like soccer and MMA, going to the gym, watching movies and listening to music
 - 🌱 I’m currently learning Computer Science at Carleton University interested in AI/Machine Learning
 - 💞️ I’m looking to collaborate on Linkedin and GitHub
 - 📫 How to reach me: ductranphann@gmail.com on Mail
