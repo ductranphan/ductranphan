@@ -7,6 +7,7 @@ I am a second-year Computer Science student at Carleton University, passionate a
 🚀 What I'm Up To
 
 🤖 Exploring Machine Learning with scikit-learn
+
 💻 Building FastAPI applications with PostgreSQL
 
 Check out my coding portfolio!
@@ -16,6 +17,7 @@ ductranphan.site
 🎓 Contact Me
 
 [Instagram](https://www.instagram.com/ductranphan06/)
+
 ductranphann@gmail.com
 
 🌐 Connect with me:
