@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @ductranphan
-- 👀 I’m interested in sports like soccer and MMA, going to the gym, watching movies and listening to music
-- 🌱 I’m currently learning Computer Science at Carleton University interested in AI/Machine Learning
-- 💞️ I’m looking to collaborate on Linkedin and GitHub
-- 📫 How to reach me: ductranphann@gmail.com on Mail
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I lived in Viet Nam for 13 years 
+Hi 👋 I'm Duc Tran Phan
+💫 About Me:
+I am a second-year Computer Science student at Carleton University, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
-<!---
-ductranphan/ductranphan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 What I'm Up To
+🤖 Exploring Machine Learning with scikit-learn
+💻 Building FastAPI applications with PostgreSQL
+Check out my coding portfolio!
+ductranphan.site
+
+🎓 Contact Me
+Instagram
+Email 
+
+🌐 Connect with me:
+LinkedIn
+
+💻 Tech Stack:
+Languages: Python Java SQL HTML5 CSS JavaScript C C++ 
+
+Developer Tools: Git Linux Microsoft Office
+
+Libraries/Frameworks: ReactJS PostgreSQL Pandas Numpy SQLAlchemy Streamlit Pydantic
